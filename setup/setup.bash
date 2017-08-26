@@ -274,6 +274,7 @@ fi
 
 # Installing node modules
 echo Installing node modules
+cp README.md src/main/js/electron
 cd src/main/js/electron
 npm install
 NPM_INSTALL_STATUS=$?
