@@ -1532,7 +1532,7 @@ def get_fit_powerspectrum_result(src_destination, bck_destination, gti_destinati
 
 
 # get_bootstrap_results:
-# Returns the data of applying bootstrap error analisys method to a given dave model
+# Returns the data of applying bootstrap error analysis method to a given dave model
 #
 # @param: src_destination: source file destination
 # @param: bck_destination: background file destination, is optional
